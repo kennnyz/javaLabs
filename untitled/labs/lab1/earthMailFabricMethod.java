@@ -1,3 +1,5 @@
+package lab1;
+
 public class earthMailFabricMethod implements MailFabricService {
 
     public earthMailFabricMethod getButton() {

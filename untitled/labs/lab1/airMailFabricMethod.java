@@ -1,3 +1,5 @@
+package lab1;
+
 public class airMailFabricMethod implements MailFabricService {
     private airMailFabricMethod getButton() {
         return new airMailFabricMethod();

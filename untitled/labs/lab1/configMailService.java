@@ -1,4 +1,4 @@
-import java.util.logging.Logger;
+package lab1;
 
 public class configMailService {
     private static final int earthMailServiceID = 1;

@@ -1,3 +1,5 @@
+package lab1;
+
 public class App {
     // get dependencies
     // Паттерн одиночка
@@ -44,7 +46,7 @@ public class App {
     button.paint();
     director.constructAndroid(builder);
     Phone android = builder.getFinal();
-    System.out.println("Android phone: Core " + android.getCpu() + " Screen " + android.getScreen() + " Cameras " + android.getCameras());
+    System.out.println("Android phone: Core " + android.getCpu() + " lab1.Screen " + android.getScreen() + " Cameras " + android.getCameras());
 }
 }
 

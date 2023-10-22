@@ -1,3 +1,5 @@
+package lab1;
+
 public class singletonRepository {
     private static singletonRepository instance;
     private String DSN;

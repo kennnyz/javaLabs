@@ -1,3 +1,5 @@
+package lab1;
+
 public class PhoneBuilder implements Builder{
     private PhoneType type;
     private Screen screen;

@@ -1,3 +1,5 @@
+package lab1;
+
 public class Phone {
     private PhoneType phoneType;
     private CPU cpu;

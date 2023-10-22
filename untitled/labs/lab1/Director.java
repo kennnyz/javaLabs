@@ -1,4 +1,6 @@
-// Builder
+package lab1;
+
+// lab1.Builder
 public class Director {
     public void constructIphone(Builder builder) {
         builder.setPhoneType(PhoneType.Iphone);
